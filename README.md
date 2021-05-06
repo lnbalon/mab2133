@@ -11,4 +11,5 @@ To ensure that that code running on this repo are the same for all machines, dup
 $ conda create --name <env> --file requirements.txt
 ``` 
 
+#### Structure
 
